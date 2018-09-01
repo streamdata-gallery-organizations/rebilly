@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Rebilly",
+	"description": "This is a repository of rebilly APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/rebilly.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-31",
+	"url": "http://rebilly.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Rebilly",
+			"x-api-slug": "rebilly",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png",
+			"humanURL": "https://www.rebilly.com",
+			"baseURL": "https://api.rebilly.com//v2.1",
+			"tags": "Rebilly",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/rebilly/master/_listings/rebilly/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Rebilly",
+	"include": [
+		{
+			"name": "Rebilly",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/rebilly/master/_listings/rebilly/apis.yaml"
+		}
+	]
+}
